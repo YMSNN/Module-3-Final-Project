@@ -16,7 +16,7 @@ This project provides a simple interest calculator implemented in Bash and C++. 
 ### Bash Script
 1. Clone the repository:
    ```sh
-   git clone https://github.comYSMNN/Module-3-Final-Project.git
+   git clone https://github.com/YSMNN/Module-3-Final-Project.git
    cd simple-interest-calculator
    ```
 2. Make the script executable:
